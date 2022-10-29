@@ -3,4 +3,6 @@
 
 <h3 align="center"> I’m currently working on Node.JS Auth</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botprzemek&" alt="botprzemek" /></p>
+<p align="center"><img align="center" src="https://thumbs.gfycat.com/AdorableCleverKoalabear-max-1mb.gif" /><img align="center" src="https://thumbs.gfycat.com/AdorableCleverKoalabear-max-1mb.gif" /><img align="center" src="https://thumbs.gfycat.com/AdorableCleverKoalabear-max-1mb.gif" /></p>
+
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botprzemek&" alt="botprzemek" /></p> -->

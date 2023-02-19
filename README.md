@@ -5,5 +5,5 @@
 
 <p align="center">
   <img align="left" src="assets/tjava.png" width="30%">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=botprzemek&show_icons=true&theme=transparent&text_color=fff&title_color=eeb3d9&icon_color=eeb3d9&hide_title=true&hide_border=true&hide=stars,contribs" alt="botprzemek's github statistics">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=botprzemek&show_icons=true&theme=transparent&text_color=fff&title_color=eeb3d9&icon_color=eeb3d9&hide_title=true&hide_border=true&hide=stars,contribs" alt="botprzemek's github statistics" width="45%">
 </p>

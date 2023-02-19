@@ -4,6 +4,6 @@
 <p align="center"><img align="center" src="assets/tbotprzemek.png"></p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=botprzemek&show_icons=true&theme=transparent&text_color=fff&title_color=eeb3d9&icon_color=eeb3d9&hide_title=true&hide_border=true&hide=stars,contribs" alt="botprzemek's github statistics">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botprzemek&hide_border=true&text_color=fff&title_color=eeb3d9&theme=transparent&langs_count=2&hide_progress=true&text_bold=true&custom_title=Languages" alt="botprzemek's most used languages" width="40%">
+  <img align="left" src="assets/tjava.png" width="30%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=botprzemek&show_icons=true&theme=transparent&text_color=fff&title_color=eeb3d9&icon_color=eeb3d9&hide_title=true&hide_border=true&hide=stars,contribs" alt="botprzemek's github statistics">
 </p>

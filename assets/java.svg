@@ -6,6 +6,12 @@
         fill: none;
       }
 
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
       .cls-3 {
         clip-path: url(#clippath);
       }
@@ -36,11 +42,6 @@
 
       .cls-10 {
         clip-path: url(#clippath-5);
-      }
-
-      .cls-2 {
-        stroke: #fff;
-        stroke-miterlimit: 10;
       }
 
       .cls-11 {

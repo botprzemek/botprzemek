@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
 <h4 align="center">I'm a freelancer specializing in the java/web development and graphic/motion design. Currently working on basketball website!</h4>
 
-<p align="center">IT Technician School Graduate | Semi-finalist of <a href="https://www.mistrzostwait.com/" target="_blank">Mistrzostwa IT Championship</a></i></p>
+<p align="center">IT Technician School Graduate | Semi-finalist of <a href="https://www.mistrzostwait.com/" target="_blank">Mistrzostwa IT Championship</a> | <a href="https://exotia.net/" target="_blank">exotia.net</a> Developer</p>
 <p align="center"><img align="center" src="assets/botprzemek.svg"></p>
 
 <p align="center">

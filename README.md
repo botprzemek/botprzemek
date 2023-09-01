@@ -24,7 +24,7 @@
     🎓 Computer Science University Student
   </li>
   <li>
-    🏆 Semi-finalist of <a href="https://www.mistrzostwait.com/" target="_blank">Polish Computer Science Championship</a>
+    🏆 Semi-finalist of <a href="https://www.mistrzostwait.com/" target="_blank">Polish IT Championship</a>
   </li>
   <li>
     💻 <a href="https://exotia.net/" target="_blank">exotia.net</a> and <a href="https://knuryknurow.pl/" target="_blank">Knury Knurów</a> Developer

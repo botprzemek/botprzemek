@@ -18,7 +18,10 @@
 <h3> About me</h3>
 <ul>
   <li>
-    🎓 Computer Science Technician School Graduate + University Student
+    🎓 Computer Science Technician School Graduate
+  </li>
+  <li>
+    🎓 Computer Science University Student
   </li>
   <li>
     🏆 Semi-finalist of <a href="https://www.mistrzostwait.com/" target="_blank">Polish Computer Science Championship</a>

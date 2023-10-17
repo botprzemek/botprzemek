@@ -18,7 +18,7 @@
 <h3> About me</h3>
 <ul>
   <li>
-    🎓 Computer Science University Student
+    🎓 Computer Science Collage Student
   </li>
   <li>
     🎓 Computer Science Technician School Graduate

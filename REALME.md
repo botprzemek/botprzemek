@@ -22,7 +22,10 @@ Education
 | 🏆 Awarded Laureate of International Volunteering for [Knury Knurów project](https://knuryknurow.pl) |
 
 Experience
-1.5+ year commercial experience in
+
+> [!NOTE]
+> 1.5+ year commercial experience in
+
 Linux
 Containerization
 Projects to finish
@@ -42,4 +45,7 @@ Tenancy API
 > Can you add code inside the dropdown?
 
 - [ ] https://github.com/not-byte/notbyte-website/issues/2
+
 @not-byte
+
+@github/not-byte

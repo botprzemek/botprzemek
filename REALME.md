@@ -24,7 +24,9 @@ Education
 Experience
 
 > [!NOTE]
-> 1.5+ year commercial experience in DevOps and Graphic Design
+> 2+ year commercial experience in DevOps
+> 
+> 1.5+ year commercial experience in Design
 
 Certificates
 

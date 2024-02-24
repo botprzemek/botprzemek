@@ -34,13 +34,38 @@ Networking and Administration Vocational - INF.02 (EuroPass)
 
 Web and Database Development Vocational - INF.03 (EuroPass)
 
-Linux
-Containerization
-Projects to finish
+## Technologies
 
-Plumbing Website
-                                                                                                                                                        
-Renovation Website
+### Languages
+
+TypeScript
+Golang
+Java
+C
+
+### Environment
+
+Linux (Ubuntu/Debian)
+Containerization with Docker and Kubernetes
+Oracle OCI and Terraform
+Github Actions and Packages
+
+### Databases
+
+MySQL
+PostgreSQL
+Cockroach
+Firebase
+
+### Design
+
+Photoshop
+Illustrator
+After Effects
+
+## Projects to finish
+- Plumbing Website                                                                                                                                                      
+- Renovation Website
 - Basketball Website
 - Basic Mail API - GO
 - College
@@ -52,11 +77,10 @@ Renovation Website
 
 - Portfolio
 
-Hobbies
+Activities
 
-Technologies
-
-Worked on projects
+- Athlete, basketball Coach and Player and gym Rat
+- Digital Artist, Graphic and Motion designer
 
 Github stat
 
@@ -65,7 +89,7 @@ Github stat
 - [notByte](https://notbyte.com)
 
 - Empowering the possibilities of humanity through the development of software that has universal value.
-- Current Job Netowrk and Servers
+- Current Job Network and Servers
 
 Languages
 

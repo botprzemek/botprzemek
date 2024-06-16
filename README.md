@@ -27,6 +27,6 @@
     🏆 Semi-finalist of <a href="https://www.mistrzostwait.com/" target="_blank">Polish IT Championship</a>
   </li>
   <li>
-    💻 <a href="https://exotia.net/" target="_blank">exotia.net</a> and <a href="https://knuryknurow.pl/" target="_blank">Knury Knurów</a> Developer
+    💻 <a href="https://notbyte.com/" target="_blank">notByte</a>, <a href="https://exotia.net/" target="_blank">exotia.net</a> and <a href="https://knuryknurow.pl/" target="_blank">Knury Knurów</a> Developer
   </li>
 </ul>

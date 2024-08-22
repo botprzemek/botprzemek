@@ -21,7 +21,7 @@
     🎓 Computer Science College Student
   </li>
   <li>
-    🎓 Computer Science Technician School Graduate
+    🎓 Computer Science High School Graduate
   </li>
   <li>
     🏆 Semi-finalist of <a href="https://www.mistrzostwait.com/" target="_blank">Polish IT Championship</a>

@@ -2,12 +2,11 @@
 
 I'm Przemek, 3rd year Computer Science student and full-time Software Engineer based in Silesia, Poland.
 Having graduated from high school with CS speciality, I have decided to pursue my interests further.
-Proud developer with **2+ years** of corporate experience and counting.
+Proud developer with **3 years** of corporate experience and counting.
 
 At present, I have developed fundamental understanding of _"How it's made?"_, ranging from semiconductors inside transistors to a fully functional HTTP **web server.**
-My leading areas of interest are software design, edge computing, networking, physics and basketball. Currently deep diving in **NodeJS** and **TypeScript**.
+My leading areas of interest are software design, edge computing, networking, physics and basketball.
 
-### Techologies
 
 ![typescript](https://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-F4BB00?style=flat-square&logo=javascript&logoColor=white)
@@ -39,13 +38,6 @@ My leading areas of interest are software design, edge computing, networking, ph
 **CCNA** - Introductions to Networks (2024),\
 **ICP HUB Blockchain** - Developing and deploying WEB3 app on-chain (2024),
 
-### Projects
-
-| **Project**                                                        | **Description**                                                                                 | **Status**   |
-| :----------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | ------------ |
-| [**notbyte**](https://github.com/not-byte)                         | Founded by group of colleagues software startup with various web development projects.          | In progress. |
-| [**blink** ](https://github.com/not-byte/blink-app)                | A Canister Contest certification project that led us to 3rd place. Made with Vue.JS and Rust.   | Finished.    |
-| [**basketball-form**](https://github.com/not-byte/basketball-form) | Registration App made specifically for a 3X3 Basketball tournament events based in Poland.      | Finished.    |
-| [**exotia**](https://github.com/exotia-net)                        | Network of Minecraft servers with self-made plugins and add-ons deployed on OCI infrastructure. | Finished.    |
+[![An image of @botprzemek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/botprzemek)](https://holopin.io/@botprzemek)
 
 _[If You're Reading This It's Too Late](https://open.spotify.com/track/3a8tAZFJxlmBwOtrf5L1oC?si=0c2f568eaa84481d)_

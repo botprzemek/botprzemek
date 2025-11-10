@@ -28,8 +28,8 @@ My leading areas of interest are software design, edge computing, networking, ph
 
 | **Title**                            | **Description**                                                                                                                                                                                                                            | **Year** |
 | :----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| **3rd place - Canister Contest ICP** | Our challenge was to develop a canister on the Internet Computer that addresses one or more problems described in the contest project. We have chosen to create a DApp with a communication system and created a WEB3 messanger-like app.  | 2024     |
-| **Semi-finalist - Mistrzostwa IT**   | Mistrzostwa IT was a national computer-related championship event, I've registered with my colleague and were participating in the **Cybersecurity** and **Operating Systems** categories. We’ve achieved semi-finals with leading scores. | 2022     |
+| **3rd place - Canister Contest ICP** | The mission was to develop a canister app on the ICP blockchain that addresses one or more problems described in the contest project - We have chosen to create a communication system, WEB3 messanger-like app.  | 2024     |
+| **Semi-finalist - Mistrzostwa IT**   | National computer-related championship competition, registered with colleague and were participating in the **Cybersecurity** and **Operating Systems** categories, reaching semi-finals. | 2022     |
 
 ### Certificates
 

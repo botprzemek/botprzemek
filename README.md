@@ -1,8 +1,6 @@
 ## Hi there!
 
-I'm Przemek, 3rd year Computer Science student and full-time Software Engineer based in Silesia, Poland.
-Having graduated from high school with CS speciality, I have decided to pursue my interests further.
-Proud developer with **3 years** of corporate experience and counting.
+I am Przemek, a 3rd year Computer Science student and full-time Software Engineer based in Silesia, Poland. Having graduated from IT technical high school, I have decided to pursue my interests further. Bringing 3 years of experience in IT, proven success in backend performance and systems efficiency, contributor of various open-source projects.
 
 At present, I have developed fundamental understanding of _"How it's made?"_, ranging from semiconductors inside transistors to a fully functional HTTP **web server.**
 My leading areas of interest are software design, edge computing, networking, physics and basketball.
@@ -33,9 +31,9 @@ My leading areas of interest are software design, edge computing, networking, ph
 
 ### Certificates
 
-**ING Hubs CRC** - Monitoring and raporting errors with software (2025),\
-**CCNA** - Switching, Routing, and Wireless (2025),\
-**CCNA** - Introductions to Networks (2024),\
+**ING Hubs CRC** - Monitoring and raporting errors with software (2025),
+**CCNA** - Switching, Routing, and Wireless (2025),
+**CCNA** - Introductions to Networks (2024),
 **ICP HUB Blockchain** - Developing and deploying WEB3 app on-chain (2024),
 
 [![An image of @botprzemek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/botprzemek)](https://holopin.io/@botprzemek)

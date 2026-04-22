@@ -18,18 +18,4 @@ Developed fundamental understanding of computer science architecture, algorithms
 ![linux ubuntu](https://img.shields.io/badge/-ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![proxmox](https://img.shields.io/badge/-proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
-### Achievements
-
-| **Title**                            | **Description**                                    | **Year** |
-| :----------------------------------- | -------------------------------------------------- | -------- |
-| **3rd place - Canister Contest ICP** | ICP blockchain project (WEB3 messanger-like app)   | 2024     |
-| **Semi-finalist - Mistrzostwa IT**   | National computer-science championship competition | 2022     |
-
-### Certificates
-
-**ING Hubs CRC** - Monitoring and raporting errors with software (2025),
-**CCNA** - Switching, Routing, and Wireless (2025),
-**CCNA** - Introductions to Networks (2024),
-**ICP HUB Blockchain** - Developing and deploying WEB3 app on-chain (2024),
-
 [![An image of @botprzemek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/botprzemek)](https://holopin.io/@botprzemek)
